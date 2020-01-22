@@ -20,8 +20,8 @@
 		maxWait="10000" 
 		name="jdbc/mydb"	 
 		type="javax.sql.DataSource"
-		url="jdbc:mysql://localhost:3307/pruebarest" 
-		username="root"
-		password="" ></Resource>
+		url="jdbc:mysql://192.168.0.103:3306/mercadona" 
+		username="erozki"
+		password="erozki" ></Resource>
 		
 </Context>	
