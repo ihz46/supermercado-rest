@@ -29,6 +29,7 @@ public class ProductoRestController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private final static Logger LOG = Logger.getLogger(ProductoRestController.class);
 	private ProductoDAO productoDao;
+	
 
 	/**
 	 * @see Servlet#init(ServletConfig)
